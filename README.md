@@ -15,6 +15,7 @@ git 생성: 김도현
 
 ## 와이어 프레임
 ![image](https://github.com/user-attachments/assets/0fd576ab-27c8-454d-a9c6-b2732fedffa2)
+![image](https://github.com/user-attachments/assets/5b2e49c2-96c7-4285-8953-2b08dce7de13)
 
 ## ERD
 ![image](https://github.com/user-attachments/assets/37b69e7b-1899-4893-9f5c-8fe9926db4d5)
